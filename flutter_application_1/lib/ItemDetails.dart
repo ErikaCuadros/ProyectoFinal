@@ -75,7 +75,7 @@ class ItemDetail extends StatelessWidget {
             Center(
               child: Container(
                 width: MediaQuery.of(context).size.width - 50.0,
-                child: Text('Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard',
+                child: Text('Disfruta de esta y mas peliculas dentro de la aplicacion',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                         fontFamily: 'Varela',
